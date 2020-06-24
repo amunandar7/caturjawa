@@ -1,0 +1,122 @@
+**************************************
+           CATUR JAWA GAME SCORES
+**************************************
+BEST TIME
+Player 2 => 0:3:35
+Date	: November 1 2011
+At	: 1:54
+
+HIGH SCORE
+Sule	: 9
+Parto	: 4
+Date	: June 5 2011
+At	: 6:40
+
+
+ALL SCORE:
+-------------------
+
+`Date	: November 1 2011
+At	: 1:51
+Player1	: Agus => 1
+Player2	: Agus Juga => 0
+Winner	: Agus
+Time	: 0:13:446
+
+Date	: November 1 2011
+At	: 1:52
+Player1	: Agus => 1
+Player2	: Agus Juga => 1
+Winner	: Agus Juga
+Time	: 0:11:752
+
+Date	: November 1 2011
+At	: 1:53
+Player1	: Player 1 => 1
+Player2	: Player 2 => 0
+Winner	: Player 1
+Time	: 0:4:747
+
+Date	: November 1 2011
+At	: 1:53
+Player1	: Player 1 => 1
+Player2	: Player 2 => 0
+Winner	: Player 1
+Time	: 0:6:201
+
+Date	: November 1 2011
+At	: 1:54
+Player1	: Player 1 => 1
+Player2	: Player 2 => 1
+Winner	: Player 2
+Time	: 0:10:481
+
+Date	: November 1 2011
+At	: 1:54
+Player1	: Player 1 => 1
+Player2	: Player 2 => 1
+Winner	: -
+Time	: 0:10:346
+
+Date	: November 1 2011
+At	: 1:54
+Player1	: Player 1 => 1
+Player2	: Player 2 => 2
+Winner	: Player 2
+Time	: 0:3:35
+
+Date	: November 1 2011
+At	: 1:55
+Player1	: Player 1 => 1
+Player2	: Player 2 => 3
+Winner	: Player 2
+Time	: 0:19:874
+
+Date	: November 1 2011
+At	: 1:56
+Player1	: Player 1 => 1
+Player2	: Player 2 => 4
+Winner	: Player 2
+Time	: 0:11:700
+
+Date	: November 1 2011
+At	: 2:5
+Player1	: Player 1 => 1
+Player2	: Player 2 => 0
+Winner	: Player 1
+Time	: 0:7:882
+
+Date	: November 1 2011
+At	: 2:6
+Player1	: Player 1 => 1
+Player2	: Player 2 => 1
+Winner	: Player 2
+Time	: 0:4:251
+
+Date	: November 1 2011
+At	: 2:9
+Player1	: Player 1 => 0
+Player2	: Player 2 => 1
+Winner	: Player 2
+Time	: 0:8:787
+
+Date	: May 31 2020
+At	: 1:8
+Player1	: Nandar => 0
+Player2	: Imal => 1
+Winner	: Imal
+Time	: 0:36:213
+
+Date	: May 31 2020
+At	: 1:8
+Player1	: Nandar => 1
+Player2	: Imal => 1
+Winner	: Nandar
+Time	: 0:26:442
+
+Date	: May 31 2020
+At	: 1:9
+Player1	: Nandar => 2
+Player2	: Imal => 1
+Winner	: Nandar
+Time	: 0:16:546`
